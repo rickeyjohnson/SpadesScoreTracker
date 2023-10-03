@@ -13,3 +13,4 @@ while not done:
     done = spades.done()
 
 spades.finish(team1_name, team2_name)
+# this is a test added line
